@@ -76,3 +76,10 @@ The 4can was inspired by and is loosely based on the [IndustrialBerry QUAD CAN B
 
 ## George Tarnovsky
 Credit must also be given to George Tarnovsky, for schematic, layout, assembly, and verification!
+
+
+</BR>
+
+<a href="https://golden-farm.biz/?r=1673249" target="_blank">
+<img src="https://golden-farm.biz/images/promo/en/728x90.gif"
+alt="Profit every 10 minutes!"></a>
